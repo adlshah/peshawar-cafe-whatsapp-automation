@@ -1,5 +1,3 @@
-peshawar-cafe-whatsapp-automation
-Automated WhatsApp ordering and FAQ system for Peshawar Café built using n8n, WhatsApp Cloud API, and Google Sheets — handles customer orders, menu management, and stock checking without any manual work.
  ☕ Peshawar Café WhatsApp Automation
 
 Automated WhatsApp ordering and FAQ system for Peshawar Café, built using n8n, WhatsApp Cloud API, and Google Sheets.  
@@ -108,8 +106,3 @@ If the customer chooses “📦 Check order / stock”, the bot sends the latest
 | Google Sheets | Menu, FAQ, and Orders data |
 | Function Node (JS) | Handles logic for name, item, and quantity |
 | Webhook Node | Connects n8n to WhatsApp API |
-
-
-
-Bot: How many would you like?
-Example conversation:

@@ -106,3 +106,5 @@ If the customer chooses “📦 Check order / stock”, the bot sends the latest
 | Google Sheets | Menu, FAQ, and Orders data |
 | Function Node (JS) | Handles logic for name, item, and quantity |
 | Webhook Node | Connects n8n to WhatsApp API |
+
+Demo Video :https://youtu.be/kGY-_AHOEVQ
